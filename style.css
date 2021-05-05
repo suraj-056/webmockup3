@@ -148,7 +148,7 @@ span{
     .contact{
         width: 100%;
         height: 100vh;
-        display: block;
+        background-color:white;
         margin: 30% 0%;
 
     }
